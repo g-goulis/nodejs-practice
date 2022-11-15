@@ -1,7 +1,4 @@
 # Project exclude paths
 /node_modules/
-/.idea/.gitignore
-/.idea/jsLibraryMappings.xml
-/.idea/modules.xml
-/.idea/nodejs-practice.iml
+/.idea/
 /package.json
